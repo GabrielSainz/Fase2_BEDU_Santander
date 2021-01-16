@@ -12,7 +12,6 @@ x <- c(4000,9000,9000,10000)
 mean(x)
 median(x)
 
-
 # Si lo que deseamos es obtener la moda de un conjunto de mediciones, una alternativa
 # es instalar el paquete DescTools en R mediante la instrucción 
 # install.packages("DescTools"), luego utilizamos la función Mode del paquete DescTools
